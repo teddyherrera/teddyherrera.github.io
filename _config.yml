@@ -26,9 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "After completing my B.S. in Mechanical Engineering I commisioned as a Marine Corps Officer. I am currently pursueing a Master of Science in Electrical Engineering at Naval Postgraduate School."
   location         : "Monterey, CA"
-  school2          : "Naval Postgraduate School"
-  school           : "New Mexico State Univeristy - BSME"
-  uri              : # URL
+  uri              : "Naval Postgraduate School"
+  employer         : "New Mexico State Univeristy - BSME"
   email            : "herrera.teddy45@gmail.com" 
 
   # Academic websites
